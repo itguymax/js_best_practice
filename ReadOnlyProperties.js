@@ -1,3 +1,4 @@
+'use strict';
 var obj = {};
 Object.defineProperty(obj, 'readOnly',{
     enumerable:false,
