@@ -1,4 +1,4 @@
 'use strict';
 var x = 120,
-y = 012;// 0 at beginning->octal. octal literal
+y = parseInt(12,8);
 console.log(x+y);
